@@ -11,5 +11,6 @@ public class Triangular {
 					System.out.println("+");
 				}
 				System.out.println("++++++++++++");
+				System.out.println("you - ho - ho!");
 			}
 }
